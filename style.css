@@ -1,0 +1,35 @@
+body {
+
+}
+.menu {
+width: 1200px;
+display:flex;
+justify-content: space-around;
+list-style: none;
+margin: auto;
+
+
+}
+.container {
+width: 1200px;
+display: flex;
+margin: auto;
+}
+.photo {
+
+}
+.bkgf {
+position: relative;
+
+
+}
+.welcome-sedona {
+position: absolute;
+margin-top: -600px;
+left: 370px;
+}
+.polygon-1 {
+position: absolute;
+bottom: -107px;
+border: none;
+}
